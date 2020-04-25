@@ -1,7 +1,6 @@
 # Tableau_CitiBikesAnalytics
 
-Click here to see the result on Tableau Public 
-[Citi Bike JC Analysis](https://public.tableau.com/views/CitiBikeAnalytics_15728476963910/CitiBikeAnalysis?:display_count=y&publish=yes&:origin=viz_share_link)
+Click [here](https://public.tableau.com/views/CitiBikeAnalytics_15728476963910/CitiBikeAnalysis?:display_count=y&publish=yes&:origin=viz_share_link) to see the result on Tableau Public 
 
    ![CitiBike](https://github.com/ovinueza/Tableau_CitiBikesAnalytics/blob/master/images/citibikie_logo.png)
 
