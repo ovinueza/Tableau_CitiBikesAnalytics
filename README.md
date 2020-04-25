@@ -34,4 +34,4 @@ The trips for the most used bikes are often started on or around the same statio
 
 Another phenomenon that was uncovered from our visualizations, is that most of our riders are between the ages of 45 and 54. However, there are some red flags raised as it appears that we do not confirm age in any way and that the user can say they were born in any year. This was noticed when we had multiple users over 100 years old riding bikes. This is extremely unlikely and caused that data to be filtered. It may be wise to start having users validate their age so we do not have invalid data or even have underage children lying about their age to ride our bikes.
 
-The final phenomenon that I want to recognize is that the most popular time of the year for ridesharing is the summer. This makes sense as  climate is more favorable. 
+The final phenomenon that I want to recognize is that the most popular time of the year for ridesharing is the summer. This makes sense as  climate is more favorable and enjoyable in the summer months.
