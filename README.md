@@ -4,7 +4,7 @@ Click [here](https://public.tableau.com/views/CitiBikeAnalytics_15728476963910/C
 
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/ovinueza/Tableau_CitiBikesAnalytics/blob/master/images/citibikie_logo.png">
+  <img width="800" height="300" src="https://github.com/ovinueza/Tableau_CitiBikesAnalytics/blob/master/images/citibikie_logo.png">
 </p>
 
 ## Findings
